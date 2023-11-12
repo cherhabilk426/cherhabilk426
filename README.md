@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdelkarim cherhabil</h1>
+<h1 align="center">Hi 👋, I'm Abdelkarim Cherhabil</h1>
 <h3 align="center">PhD in electronics,Ziane Achour University of Djelfa , Algeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cherhabilk426&label=Profile%20views&color=0e75b6&style=flat" alt="cherhabilk426" /> </p>
