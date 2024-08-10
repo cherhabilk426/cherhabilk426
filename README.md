@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/cherhabilkarim" target="blank"><img src="https://img.shields.io/twitter/follow/cherhabilkarim?logo=twitter&style=for-the-badge" alt="cherhabilkarim" /></a> </p>
 
-- 🔭 I’m currently working on **PhD in electronics,Ziane Achour University of Djelfa**
+- 🔭 I’m currently working on **PhD in Electronics,Ziane Achour University of Djelfa**
 
 - 👯 I’m looking to collaborate on **AI, image processing, signal processing, and research and development**
 
